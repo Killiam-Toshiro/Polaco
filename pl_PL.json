@@ -96,7 +96,7 @@
   "gamemode.glory.caps": "GLORIA",
   "gamemode.glory": "Gloria",
   "gamemode.glory.description": "La primera persona en ganar {0} puntos gana",
-"gamemode.glory.win": "The {0} points score was reached!",
+  "gamemode.glory.win": "The {0} points score was reached!",
   "gamemode.might.caps": "MIGHT",
   "gamemode.might": "Might",
   "gamemode.might.description": "Capture all capitals to win",
