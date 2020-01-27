@@ -195,7 +195,7 @@
   "building.city.owner": "{0} is a city in the {1} empire.",
   "building.village.owner": "This is a village that doesn't belong to any tribe",
   "building.ability.attract": "attracts a wild animal to a nearby forest tile every 3 turns",
-  "building.produce": "produces {0} each t
+  "building.produce": "produces {0} each turn",
   "building.produce.multiply.polaris": " ({0} for every {1} frozen tiles in the world)",
   "building.produce.multiply": " ({0} for each nearby {1})",
   "building.produce.multiply2": "produces {0} for each nearby {1} each turn",
@@ -918,4 +918,3 @@
   "date.minutes": "minutes",
   "date.second": "second",
   "date.seconds": "seconds"
-}
