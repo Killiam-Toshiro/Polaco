@@ -417,9 +417,9 @@
   "tooltip.ability.fortify": "Esta unidad obtiene una bonificación de defensa cuando defiende en sus propias ciudades, doble bonificación con una muralla",
 
   "buttons.ok": "OK",
-  "buttons.exit": "EXIT",
+  "buttons.exit": "SALIR",
   "buttons.save": "GUARDAR",
-  "buttons.back": "BACK",
+  "buttons.back": "ATRAS",
 
   "gameinfo.id": "id: {0}",
   "gameinfo.lastmove": "Último movimiento: hace {0}",
@@ -856,7 +856,7 @@
   "idconsole.clipboard": "ID del jugador {0} agregado al portapapeles",
   "idconsole.clipboard.title": "¡Voilí!",
 
-  "playerpickerview.title": "PICK PLAYERS",
+  "playerpickerview.title": "Seleccionar Jugador",
   "playerpickerview.name": "Nombre del juego",
   "playerpickerview.startgame": "INICIAR JUEGO",
   "playerpickerview.addplayer": "AGREGAR JUGADOR",
