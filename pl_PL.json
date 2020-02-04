@@ -406,15 +406,15 @@
   "tooltip.ability.heal": "Esta unidad puede curar a las unidades circundantes",
   "tooltip.ability.navigate": "Esta unidad puede moverse en cualquier terreno incluso si no tiene la tecnología necesaria para moverse allí",
   "tooltip.ability.fly": "Esta unidad puede volar sobre cualquier terreno sin penalizaciones de movimiento ni bonificaciones",
-  "tooltip.ability.splash": "Esta unidad causa daños por salpicadura a las unidades cercanas cuando ataca".
+  "tooltip.ability.splash": "Esta unidad causa daños por salpicadura a las unidades cercanas cuando ataca",
   "tooltip.ability.grow": "Esta unidad eventualmente crecerá y se convertirá en otra cosa",
   "tooltip.ability.sneak": "Esta unidad puede pasar unidades enemigas sin detenerse",
   "tooltip.ability.scout": "Esta unidad tiene un rango de visión doble",
   "tooltip.ability.freeze": "Esta unidad congela a sus enemigos cuando los ataca para que no puedan moverse",
-  "tooltip.ability.freeze_area": ​​"Esta unidad puede congelar las fichas circundantes, incluidas las unidades enemigas",
+  "tooltip.ability.freeze_area": "Esta unidad puede congelar las fichas circundantes, incluidas las unidades enemigas",
   "tooltip.ability.freeze_auto": "Esta unidad congela las fichas y unidades circundantes cuando se mueve",
   "tooltip.ability.skate": "Esta unidad obtiene doble movimiento en las fichas de hielo pero en tierra su movimiento está limitado a 1 ficha y todas las demás habilidades están desactivadas",
-  "tooltip.ability.fortify": "Esta unidad obtiene una bonificación de defensa cuando defiende en sus propias ciudades, doble bonificación con una muralla".
+  "tooltip.ability.fortify": "Esta unidad obtiene una bonificación de defensa cuando defiende en sus propias ciudades, doble bonificación con una muralla",
 
   "buttons.ok": "OK",
   "buttons.exit": "EXIT",
@@ -507,7 +507,7 @@
   "wcontroller.meet.tribe.bigger.hostile": "se ríe de tu insignificante excusa de una tribu",
   "wcontroller.meet.tribe.bigger.friendly": "te saluda amistosamente pero no presta atención a tu pequeño reino",
   "wcontroller.meet.tribe.smaller.hostile": "parece un poco hostil y te saluda sospechosamente",
-  "wcontroller.meet.tribe.smaller.friendly": "se inclina asombrado por tu poderosa civilización".
+  "wcontroller.meet.tribe.smaller.friendly": "se inclina asombrado por tu poderosa civilización",
   "wcontroller.meet.tribe.tech.hostile": "¡Te las arreglas para robar el secreto de {0}!",
   "wcontroller.meet.tribe.tech.friendly": "¡Como un gesto de buena voluntad compartirán el secreto de {0}!",
   "wcontroller.meet.tribe.resource.hostile": "¡Te las arreglas para robar algunas valiosas piezas de oro!",
@@ -572,10 +572,10 @@
   "technology.names.mining": "Minería",
   "technology.names.smithery": "Smithery",
   "technology.names.freediving": "Buceo libre",
-  "technology.names.spearing": "Spearing",
-  "technology.names.forestmagic": "Forest Magic",
+  "technology.names.spearing": "Lancero",
+  "technology.names.forestmagic": "Magia del bosque",
   "technology.names.watermagic": "Magia del agua",
-  "technology.names.frostwork": "Frostwork",
+  "technology.names.frostwork": "Carpinteria",
   "technology.names.polarwarfare": "Guerra polar",
   "technology.names.polarism": "Polarismo",
 
@@ -737,7 +737,7 @@
   "throne.google.in": "INICIAR SESIÓN",
 
   "consent.approval.title": "¡Bienvenido a Polytopia!",
-  "consent.approval.info": "Para mejorar Polytopia con estadísticas de uso y almacenar sus puntajes y configuraciones altas, necesitamos su aprobación para acceder a algunos datos personales. \ nPuede leer más sobre los datos que recopilamos en nuestro <u> < a href = '{0}'> política de privacidad </a> </u>. \ n (Puede revocar su aprobación en cualquier momento en la 'Sala del Trono') ",
+  "consent.approval.info": "Para mejorar Polytopia con estadísticas de uso y almacenar sus puntajes y configuraciones altas, necesitamos su aprobación para acceder a algunos datos personales. \nPuede leer más sobre los datos que recopilamos en nuestro <u> < a href = '{0}'> política de privacidad </a> </u>. \n (Puede revocar su aprobación en cualquier momento en la 'Sala del Trono') ",
   "consent.approve": "APROBAR",
   "consent.deny": "DENY",
   "consent.enabled": "Datos personales habilitados",
@@ -762,7 +762,7 @@
   "onlineview.servicedisabled": "El servidor multijugador está temporalmente deshabilitado. Inténtalo de nuevo más tarde. Asegúrate también de que estás utilizando la última versión de Battle of Polytopia",
   "onlineview.loaderror": "No se pudo conectar con el servidor multijugador. Comprueba tu conexión a Internet e inténtalo de nuevo",
   "onlineview.uptodate": "Todos los juegos están actualizados",
-  "onlineview.intro.fix": "Hola {0}! \ n \ nPara jugar en el modo multijugador en línea, hay algunas cosas que debes solucionar:",
+  "onlineview.intro.fix": "Hola {0}! \n \n Para jugar en el modo multijugador en línea, hay algunas cosas que debes solucionar:",
   "onlineview.intro.update": "El modo multijugador en línea no está disponible, actualice Polytopia a la última versión",
   "onlineview.gameinvitations": "Invitaciones a juegos",
   "onlineview.nogames.intro": "¡Hola {0}!",
@@ -795,7 +795,7 @@
   "onlineview.game.resign.title": "Renunciar",
   "onlineview.game.resign.info": "¿Estás seguro de que quieres abandonar este juego de forma permanente?",
   "onlineview.game.old.title": "Versión de archivo anterior",
-  "onlineview.game.old.info": "Este juego fue creado con una versión desactualizada del juego. Desafortunadamente no se puede cargar :( Mi sugerencia es que lo elimine y comience uno nuevo. Disculpe las molestias". ,
+  "onlineview.game.old.info": "Este juego fue creado con una versión desactualizada del juego. Desafortunadamente no se puede cargar :( Mi sugerencia es que lo elimine y comience uno nuevo. Disculpe las molestias",
   "onlineview.game.player.left": "{0} ha abandonado el juego {1} y ha sido reemplazado por un bot",
   "onlineview.game.player.kicked": "Has sido eliminado del juego {0}",
   "onlineview.game.player.invited": "Estás invitado a un nuevo juego, {0}",
@@ -911,7 +911,7 @@
 
   "credits.title": "ACERCA DE"
   "credits.subtitle": "Indie Delight",
-  "Créditos.midjiwan": "La batalla de Polytopia está siendo creada constantemente por Midjiwan, un pequeño estudio de juegos independientes en Estocolmo, Suecia".
+  "Créditos.midjiwan": "La batalla de Polytopia está siendo creada constantemente por Midjiwan, un pequeño estudio de juegos independientes en Estocolmo, Suecia",
   "creditos.learnmore1": "¿Quieres saberlo todo?",
   "Crédits.learnmore2": "Consulta la extensa base de datos de Wikia creada por la comunidad de Polytopia:",
   "credits.wiki": "POLYTOPIA WIKI",
@@ -973,5 +973,5 @@
   "friendlist.friendshipstate.accepted": "Solicitud de amistad aceptada. Ambos son amigos",
   "friendlist.friendshipstate.sentrequest": "Solicitud de amistad enviada. Esperando respuesta",
   "friendlist.friendshipstate.receivedrequest": "Solicitud de amistad recibida. ¿Aceptan?",
-  "friendlist.friendshipstate.rejected": "Solicitud de amistad rechazada".
+  "friendlist.friendshipstate.rejected": "Solicitud de amistad rechazada",
 }
