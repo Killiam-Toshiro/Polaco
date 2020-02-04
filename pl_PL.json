@@ -32,8 +32,8 @@
   "tribepicker.enable": "ENABLE",
   "tribepicker.disable": "DISABLE",
   "tribepicker.disabled": "deshabilitado",
-  "tribepicker.disabled.description": "Tribu deshabilitada, no puede ser utilizada por usted ni por la IA".
-  "tribepicker.pick": "PICK",
+  "tribepicker.disabled.description": "Tribu deshabilitada, no puede ser utilizada por usted ni por la IA",
+  "tribepicker.pick": "Elegir",
   "tribepicker.yourname": "Tu nombre",
   "tribepicker.anonymous": "Anónimo",
   "tribepicker.firstplayer": "El primer jugador debe ser humano",
@@ -83,7 +83,7 @@
   "gamesettings.online.disabled": "Online está bloqueado",
   "gamesettings.online.disabled.info": "Hay algunas cosas que debes arreglar para jugar en el modo multijugador en línea",
   "gamesettings.online.info": "Juega con tus amigos en línea usando nuestro servidor multijugador",
-  "gamesettings.passplay.info": "Juega con tus amigos sin conexión en este dispositivo pasándolo".
+  "gamesettings.passplay.info": "Juega con tus amigos sin conexión en este dispositivo pasándolo",
   "gamesettings.size.tiles": "{0} mapa de mosaicos",
   "gamesettings.continue": "CONTINUAR",
 
