@@ -353,7 +353,7 @@
   "actionbox.unit.toomany.info": "Esta ciudad no puede soportar más unidades. Actualiza la ciudad para obtener más espacio para unidades",
   "actionbox.building.doit": "HAZLO",
   "actionbox.building.requiredtech": "Necesita investigar {0} para hacer esto, toque el botón 'Árbol tecnológico'",
-  "actionbox.building.techtree": "TECH TREE",
+  "actionbox.building.techtree": "Arbol de Tecnologias",
   "actionbox.insufficientfunds": "No tienes suficientes estrellas para comprar esto. Toca 'próximo turno' para obtener más estrellas",
   "actionbox.confirm": "Confirmar {0}",
   "actionbox.confirm.info": "¿Está seguro de que desea hacer esto?",
