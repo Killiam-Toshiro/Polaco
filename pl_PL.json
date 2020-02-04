@@ -350,7 +350,7 @@
   "actionbox.unit.train": "TREN",
   "actionbox.unit.upgrade": "ACTUALIZAR",
   "actionbox.unit.toomany": "(demasiados)",
-  "actionbox.unit.toomany.info": "Esta ciudad no puede soportar más unidades. Actualiza la ciudad para obtener más espacio para unidades".
+  "actionbox.unit.toomany.info": "Esta ciudad no puede soportar más unidades. Actualiza la ciudad para obtener más espacio para unidades",
   "actionbox.building.doit": "HAZLO",
   "actionbox.building.requiredtech": "Necesita investigar {0} para hacer esto, toque el botón 'Árbol tecnológico'",
   "actionbox.building.techtree": "TECH TREE",
