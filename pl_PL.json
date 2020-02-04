@@ -96,7 +96,7 @@
   "gamemode.domination.caps": "DOMINACIÓN",
   "gamemode.domination": "Dominación",
   "gamemode.domination.description.button": "Juega hasta que solo quede una tribu, sin límite de tiempo",
-  "gamemode.domination.description": "Elimina a todas las otras tribus de la cara de la plaza. Solo puede haber una".
+  "gamemode.domination.description": "Elimina a todas las otras tribus de la cara de la plaza. Solo puede haber una",
   "gamemode.domination.win": "¡Has derrotado a todas las otras tribus y unificado toda la casilla!",
   "gamemode.domination.loss": "Tu última ciudad se perdió, has sido derrotado",
   "gamemode.glory.caps": "GLORIA",
