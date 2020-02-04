@@ -218,7 +218,7 @@
   "building.ability.embark": "Las unidades que se mueven aquí se convertirán en botes que pueden moverse en el agua",
   "building.ability.route": "Crea rutas comerciales a través de {0} a cualquier otro {1} dentro de un radio de 5 mosaicos",
   "building.ability.route.and": "y",
-  "building.ability.road": "Construye carreteras para conectar ciudades con la capital. Las ciudades conectadas obtienen 1 población como recompensa. Las carreteras también otorgan una bonificación de movimiento para todas las unidades".
+  "building.ability.road": "Construye carreteras para conectar ciudades con la capital. Las ciudades conectadas obtienen 1 población como recompensa. Las carreteras también otorgan una bonificación de movimiento para todas las unidades",
   "building.ability.ruin": "¡Una ruina de una civilización antigua, puede contener cosas valiosas! Ve allí con una unidad para examinarla",
   "building.ability.patina": "{0} crece con el tiempo, así que intente construirlos lo antes posible",
   "building.ability.limited": "Solo puedes construir uno {0} por ciudad",
